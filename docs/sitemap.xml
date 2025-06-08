@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/dirshum/</loc>
     <lastmod>2025-06-08T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/index-old/</loc>
+    <loc>http://localhost:1313/dirshum/index-old/</loc>
     <lastmod>2025-06-08T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jerry-the-joblin/</loc>
+    <loc>http://localhost:1313/dirshum/jerry-the-joblin/</loc>
     <lastmod>2025-06-08T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/dirshum/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/dirshum/tags/</loc>
   </url>
 </urlset>
