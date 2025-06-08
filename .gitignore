@@ -6,3 +6,11 @@
 #
 # Please justify all ignore entries with comments.
 
+# Normally a Hugo site would want to keep this, but we edit out of the org
+# directory.  ox-hugo exports to content, but we never actually need it directly
+# because "docs" is what gets picked up by GitHub Pages.
+content/
+
+# The Hugo server when run locally generates this file, I think.  We don't need
+# it to stick around.
+.hugo_build.lock

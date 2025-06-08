@@ -1,0 +1,33 @@
+#+title:     Jerry the Joblin Campaign
+#+author:    Logan Barnett
+#+email:     logustus@gmail.com
+#+date:      <2025-06-08 Sun>
+#+language:  en
+#+file_tags:
+#+tags:
+#+hugo_base_dir: ../..
+#+hugo_section: jerry-the-joblin
+
+* Introduction
+
+TODO: Fill me out when you have more than 10 minutes to plan.
+
+* Characters
+
+* Recaps
+
+** Session 1
+
+#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-1--public" :only-contents t
+
+** Session 2
+
+#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-2--public" :only-contents t
+
+** Session 3
+
+#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-3--public" :only-contents t
+
+** Session 4
+
+#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-4--public" :only-contents t
