@@ -1,5 +1,6 @@
 title: Dirshum
-baseURL: "https://loganbarnett.github.io/dirshum/"
+# Another GitHub Pages requirement
+baseURL: "https://loganbarnett.github.io/site-dirshum/"
 # Disable blog mode?
 paginate: 0
 theme: PaperMod
