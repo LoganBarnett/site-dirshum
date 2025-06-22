@@ -8,3 +8,21 @@
 
 My public facing notes about the fictional and fantastical world of Dirshum - my
 world I use for role playing games.
+
+* Running locally
+
+I like to use:
+
+#+begin_src sh :results none :exports code
+hugo server --baseURL 'http://localhost:1313/site-dirshum/' --logLevel debug --environment production
+#+end_src
+
+Eventually I'd like to change to an in-memory only mode.  The configuration
+supports this.  This way I won't accidentally check in a version that has the
+wrong ~baseURL~ setting.
+
+* Building locally
+
+#+begin_src sh :results none :exports code
+hugo --baseURL 'https://loganbarnett.github.io/site-dirshum/' --logLevel debug --environment production
+#+end_src
