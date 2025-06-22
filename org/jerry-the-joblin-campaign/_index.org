@@ -5,14 +5,118 @@
 #+language:  en
 #+file_tags:
 #+tags:
+#+options: toc:t
 #+hugo_base_dir: ../..
 #+hugo_section: jerry-the-joblin
 
 * Introduction
 
-TODO: Fill me out when you have more than 10 minutes to plan.
+The last few hundred years of relative peace between the nations of the world
+has been silently attributed to something only the ruling elite know of - a
+secret proxy war that is conducted completely at the expense of the orcs.
+
+Every nation backs an orc tribe, providing them weapons, magicks, training, and
+more.  The orcs are then pitted against each other by means of careful
+manipulation.  Through the outcomes observed in these engagements, military
+strategists are able to infer how a full scale war might go.  This informs
+diplomatic stances, and helps allocate appropriate research and funding to
+military forces.
+
+Lately though, a tribe of orcs has risen quickly above the rest, sporting
+weaponry far beyond anything the world has seen before.  Some are calling this
+"artifice", and an actor named "Jerry the Joblin" is the mastermind behind this.
+
+The party is sent to learn of Jerry's motives, and potentially stop Jerry.
 
 * Characters
+
+** Aarion Valor
+
+Aarion Valor is the patron of the party.  He says he works for an unofficial
+group of nations who don't like what's going on with Jerry the Joblin.  His goal
+is to ascertain Jerry's exact level of involvement, goals, and possibly stop
+Jerry.
+
+Aarion has hired each member individually.  His monetary rewards have been
+generous.  He also has hooked each party member with something he knows will
+interest them about this quest.
+
+Aarion is an older human, with a gaunt appearance.  He limps on a metal cane,
+and wears a greatcoat.
+
+[[../aarion-valor-01.jpeg]]
+
+** Amaya Dungees
+
+A priestess of the Raven Queen and under the employ of [[Aarion Valor]].  Amaya
+hails from the city of Monrithon.  She carries a porcelain mask that she uses
+when calling upon the Raven Queen's power.  The mask appears to have been
+shattered at one point, and then reassembled using gold leaf.
+
+While Aarion doesn't get too involved in the inter-party dynamics, he has warned
+that Amaya has some sentimental value to him and he'd prefer if she stayed alive.
+
+[[file:../amaya-dungees-01.png]]
+
+** Edric Varnell
+
+The owner of [[Varnell's Arcane Provisions]].
+
+** Vaelis Duskthorn
+
+A high elven, former moonstone researcher for Bel'Aheldan.  Vaelis was rescued
+by the party on the way to Gazgren as part of the slave trade.  His enslavement
+was the sentencing he was given by his nation because of his research.
+
+The party gave Vaelis a handsome amount of walking around gold.  He said he
+would stick around in the [[Vellmarch Outpost]] to assist his liberators with
+anything they need.
+
+* Locations
+** Known Locale
+
+With the capture of drones and a drone operator, the party is able to maintain a
+map of the nearby area.  This represents the party's current understanding of
+immediate location surrounding the orcs and the party's pursuit of Jerry.
+
+[[../orc-prophets-campaign-2025-05-04.png]]
+
+** Vellmarch Outpost
+
+A border town between nations of [[Gazgren]] and [[Nomasgard]], roughly near the
+tri-nation area where the [[Tribes of Egalstan]] meet.  It is west of [[Monrithon]].
+
+This is the last settlement of [[Nomasgard]] before entering [[Gazgren]].
+
+** Monrithon
+
+The largest nearby city on the [[Nomasgard]] side of the border.  Monrithon is known
+for the home of the heroes that stopped the invasion of Orcus during the last
+Sque Valan (a world-impacting cosmic event).
+
+* Organizations
+
+** Nomasgard
+
+A mostly-human nation, but also a melting pot.  The capital, Duranae, is
+situated far to the east.
+
+** Gazgren
+
+The land of the orcs.  Not really a nation in a strict sense, but the orcs know
+the boundaries well.
+
+** Tribes of Egalstan
+
+The loose territory and name given to the tribes-people of Egalstan.  Egalstan
+is not a nation but the collective name given to the human and giant-blooded
+peoples living in that area.  The boundaries there are not strict, but the stone
+markers that vaguely identify the area are unmistakable.
+
+** Varnell's Arcane Provisions
+
+A magic and potion shop run by [[Edric Varnell]] located in the [[Vellmarch Outpost]].
+
 
 * Recaps
 
@@ -31,3 +135,15 @@ TODO: Fill me out when you have more than 10 minutes to plan.
 ** Session 4
 
 #+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-4--public" :only-contents t
+
+
+* COMMENT
+
+# org-hugo-external-file-extensions-allowed-for-copying: nil
+# org-hugo-default-static-subdirectory-for-externals: "site-dirshum"
+
+# Local Variables:
+# End:
+
+#  LocalWords:  Aarion Monrithon Amaya Dungees Varnell's Vellmarch Egalstan
+#  LocalWords:  Gazgren Nomasgard

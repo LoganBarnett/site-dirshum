@@ -5,14 +5,37 @@ baseURL: "https://loganbarnett.github.io/site-dirshum/"
 paginate: 0
 theme: PaperMod
 
+# This is required to address
+# https://github.com/kaushalmodi/ox-hugo/issues/295#issuecomment-533874632 in
+# spite of discussion to the contrary here:
+# https://github.com/gohugoio/hugo/issues/4733#issuecomment-390195852
+# This is required because of the /site-dirshum/ prefix in the URL.
+canonifyURLs: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+staticDir: 'static'
+
 # Magic to make it work with GitHub Pages without needing to use the gh-pages
 # branch.
 publishDir: docs
+
+# This was suggested to make image "rendering" work.  It didn't change anything
+# for me.
+# markup:
+#   goldmark:
+#     renderHooks:
+#       image:
+#         enableDefault: true
+# module:
+#   mounts:
+#   - source: assets
+#     target: assets
+#   - source: static
+#     target: assets
+
 
 minify:
   disableXML: true
@@ -20,13 +43,13 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Dirshum
+  description: "A fantasitical world for an RPG."
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Logan Barnett
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2026-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -43,7 +66,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -88,13 +111,14 @@ params:
   #   - name: github
   #     url: "https://github.com/"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # Do not contribute to tracking.
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data

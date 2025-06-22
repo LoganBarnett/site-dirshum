@@ -14,3 +14,7 @@ content/
 # The Hugo server when run locally generates this file, I think.  We don't need
 # it to stick around.
 .hugo_build.lock
+
+# ox-hugo copies assets as needed here.  We don't need to maintain this though,
+# as it is temporary.
+static/

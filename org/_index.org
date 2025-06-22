@@ -1,0 +1,13 @@
+#+title:     Dirshum
+#+author:    Logan Barnett
+#+email:     logustus@gmail.com
+#+date:      <2025-06-08 Sun>
+#+language:  en
+#+file_tags:
+#+tags:
+#+hugo_base_dir: ..
+#+hugo_section: .
+#+hugo_layout: single
+#+hugo_url: /
+# #+hugo_front_matter_key_replace: layout layout
+# #+hugo_custom_front_matter: :layout home
