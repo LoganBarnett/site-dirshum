@@ -117,6 +117,10 @@ markers that vaguely identify the area are unmistakable.
 
 A magic and potion shop run by [[Edric Varnell]] located in the [[Vellmarch Outpost]].
 
+** Varnell's General Provisions
+
+[[Edric Varnell]] is expanding his business and with it now runs the general store
+in town.
 
 * Recaps
 
@@ -136,6 +140,9 @@ A magic and potion shop run by [[Edric Varnell]] located in the [[Vellmarch Outp
 
 #+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-4--public" :only-contents t
 
+** Session 5
+
+#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-5--public" :only-contents t
 
 * COMMENT
 
