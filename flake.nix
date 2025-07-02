@@ -13,6 +13,8 @@
       };
     in pkgs.mkShell {
       buildInputs = [
+        # Use for building.
+        pkgs.just
         pkgs.hugo
       ];
     };
