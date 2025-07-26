@@ -46,6 +46,12 @@ and wears a greatcoat.
 
 [[../aarion-valor-01.jpeg]]
 
+** Berb Minesworth
+
+An artificer consultant who travels with the party representing Nomasgard.  Berb
+has given the PC party consultation, and has offered to exchange information if
+they should bring back some devices.
+
 ** Amaya Dungees
 
 A priestess of the Raven Queen and under the employ of [[Aarion Valor]].  Amaya
@@ -61,6 +67,12 @@ that Amaya has some sentimental value to him and he'd prefer if she stayed alive
 ** Edric Varnell
 
 The owner of [[Varnell's Arcane Provisions]].
+
+** Thalendra Silverbranch
+
+A high elven magic user who leads the entourage from Bel'Aheldan.  They have
+come back after some time (long by most species' standards - decades) to check
+on their handle at an orc fortress, only to find they can't reach their handle.
 
 ** Vaelis Duskthorn
 
@@ -93,6 +105,14 @@ This is the last settlement of [[Nomasgard]] before entering [[Gazgren]].
 The largest nearby city on the [[Nomasgard]] side of the border.  Monrithon is known
 for the home of the heroes that stopped the invasion of Orcus during the last
 Sque Valan (a world-impacting cosmic event).
+
+** Smooth Dragon
+
+The local inn and tavern.  The tavern is upstairs.  Usually there's a few locals
+around, but travelers also stop by.
+
+The sign has a dragon on it, but no scales.  It's a pretty simple sign though -
+just an outline of a dragon.
 
 * Organizations
 
@@ -144,6 +164,10 @@ in town.
 
 #+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-5--public" :only-contents t
 
+** Session 6
+
+#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-6--public" :only-contents t
+
 * COMMENT
 
 # org-hugo-external-file-extensions-allowed-for-copying: nil
@@ -153,4 +177,5 @@ in town.
 # End:
 
 #  LocalWords:  Aarion Monrithon Amaya Dungees Varnell's Vellmarch Egalstan
-#  LocalWords:  Gazgren Nomasgard
+#  LocalWords:  Gazgren Nomasgard Bel'Aheldan Thalendra Silverbranch Minesworth
+#  LocalWords:  Varnell Duskthorn
