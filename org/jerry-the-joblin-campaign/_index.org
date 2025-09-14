@@ -168,6 +168,10 @@ in town.
 
 #+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-6--public" :only-contents t
 
+** Session 7
+
+#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-7--public" :only-contents t
+
 * COMMENT
 
 # org-hugo-external-file-extensions-allowed-for-copying: nil
