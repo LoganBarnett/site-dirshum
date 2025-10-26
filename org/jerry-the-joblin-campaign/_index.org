@@ -114,6 +114,41 @@ around, but travelers also stop by.
 The sign has a dragon on it, but no scales.  It's a pretty simple sign though -
 just an outline of a dragon.
 
+* Magic Items
+
+** Arcane Magic Items
+
+Purchasing Chart:
+
+| Rarity    |     Value |
+|-----------+-----------|
+| Common    |        50 |
+| Uncommon  |       200 |
+| Rare      |      2000 |
+| Very Rare |     20000 |
+| Legendary |   1000000 |
+| Artifact  | Priceless |
+
+Consumables for half price (potions, spell scrolls).
+
+This is half the amounts listed in the D&D 2024 DMG (page 217), to represent a
+high magic campaign.
+
+** Artificer Infusions as Items
+
+Artificer infusions that are items are treated as the rarity based on the tier
+that the item becomes available to the Artificer (Tasha's).  Assign a rarity
+based on that tier, and from there you can determine pricing.
+
+|  Tier | Rarity    |         |
+|-------+-----------+---------|
+|   1-4 | Common    |      50 |
+|  5-10 | Uncommon  |     200 |
+| 11-15 | Rare      |    2000 |
+| 16-20 | Very Rare |   20000 |
+|   20+ | Legendary | 1000000 |
+
+
 * Organizations
 
 ** Nomasgard
@@ -175,6 +210,10 @@ in town.
 ** Session 8
 
 #+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-8--public" :only-contents t
+
+** Session 9
+
+#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-9--public" :only-contents t
 
 * COMMENT
 
