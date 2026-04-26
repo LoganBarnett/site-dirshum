@@ -181,51 +181,55 @@ in town.
 
 ** Session 1
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-1--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-1--public" :only-contents t
 
 ** Session 2
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-2--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-2--public" :only-contents t
 
 ** Session 3
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-3--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-3--public" :only-contents t
 
 ** Session 4
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-4--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-4--public" :only-contents t
 
 ** Session 5
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-5--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-5--public" :only-contents t
 
 ** Session 6
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-6--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-6--public" :only-contents t
 
 ** Session 7
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-7--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-7--public" :only-contents t
 
 ** Session 8
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-8--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-8--public" :only-contents t
 
 ** Session 9
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-9--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-9--public" :only-contents t
 
 ** Session 10
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-10--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-10--public" :only-contents t
 
 ** Session 11
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-11--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-11--public" :only-contents t
 
 ** Session 12
 
-#+include: "../../../../notes/dm.org::#campaigns--era-of-eras--jerry-the-joblin--sessions--session-12--public" :only-contents t
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-12--public" :only-contents t
+
+** Session 16
+
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-16--public" :only-contents t
 
 * COMMENT
 
