@@ -231,6 +231,12 @@ in town.
 
 #+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-16--public" :only-contents t
 
+
+** Session 17
+
+#+include: "../../../../notes/dirshum/jerry-the-joblin-campaign.org::#jerry-the-joblin--sessions--session-17--public" :only-contents t
+
+
 * COMMENT
 
 # org-hugo-external-file-extensions-allowed-for-copying: nil
